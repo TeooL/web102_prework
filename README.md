@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<iframe width="560" height="315" src="https://youtu.be/6txd3h363VM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://youtu.be/6txd3h363VM
 <!-- Replace this with whatever GIF tool you used! --> 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
