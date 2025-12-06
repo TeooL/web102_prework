@@ -71,6 +71,20 @@ body {
     text-align: center;
 }
 
+#unfunded-btn:hover {
+    cursor: pointer;
+}
+
+#funded-btn:hover {
+    cursor: pointer;
+}
+
+#all-btn:hover {
+    cursor: pointer;
+}
+
+
+
 button {
     font-family: 'Cabin';
     border: none;
